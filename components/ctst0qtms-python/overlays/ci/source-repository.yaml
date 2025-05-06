@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ctst0qtms-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ctst0qtms-python
